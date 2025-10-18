@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Simple E-commerce cart system (Node.js + Express + MongoDB)",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
